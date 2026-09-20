@@ -1,0 +1,54 @@
+{
+  "id": "bda3b4eb02ab",
+  "title": "تشخیص کلاهبرداری",
+  "description": "پیامک جعلی، تماس بانکی، کلون صدا و کلاهبرداری تلگرامی را قبل از اینکه هزینه‌ای برایتان بسازد بشناسید — علامت‌های هشدار واقعی، نه حدس و گمان.",
+  "image": "cover.png",
+  "file": "scam-tashkhis-farsi.zip",
+  "version": "1.0.0",
+  "language": "fa",
+  "titleTranslations": {
+    "en": "Scam Recognition (Farsi)"
+  },
+  "descriptionTranslations": {
+    "en": "Native Farsi content covering Iran-specific fraud patterns: fake Sana/subsidy SMS, card-to-card fraud, messenger account takeover, Telegram investment scams, and AI voice cloning."
+  },
+  "tags": [
+    "scam-awareness",
+    "fraud-prevention",
+    "personal-safety",
+    "life-skills",
+    "beginner"
+  ],
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-19",
+      "notes": "Initial release — 23 decks, 115 cards, native Farsi content covering scam psychology plus Iran-specific SMS/bank fraud, messenger takeover, Telegram investment scams, and AI voice cloning."
+    }
+  ],
+  "toc": [
+    "چرا کلاهبرداری‌ها جواب می‌دهند",
+    "فوریت و ترس",
+    "جعل هویت مقام‌های رسمی",
+    "خیلی خوب که واقعی نیست",
+    "تاکتیک انزوا",
+    "پیامک‌های جعلی ثنا و یارانه",
+    "کلاهبرداری کارت‌به‌کارت",
+    "آنچه بانک واقعی هرگز نمی‌خواهد",
+    "تماس جعلی برنده جایزه",
+    "کلاهبرداری واریز اشتباهی",
+    "کلاهبرداری با کد فعال‌سازی",
+    "هک حساب و جعل هویت دوستان",
+    "کلاهبرداری سرمایه‌گذاری تلگرامی",
+    "طرح‌های هرمی و بازدهی غیرواقعی",
+    "کلاهبرداری‌های ارز دیجیتال",
+    "کلون صدا با هوش مصنوعی",
+    "رمز خانوادگی برای تایید هویت",
+    "جعل شماره تماس",
+    "کلاهبرداری‌های شغلی و مهاجرتی",
+    "کلاهبرداری‌های عاطفی آنلاین",
+    "جعل هویت در شبکه‌های اجتماعی",
+    "اگر کلاهبرداری شدید چه کار کنید",
+    "کجا گزارش دهید"
+  ]
+}
