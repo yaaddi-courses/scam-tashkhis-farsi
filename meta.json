@@ -4,7 +4,7 @@
   "description": "پیامک جعلی، تماس بانکی، کلون صدا و کلاهبرداری تلگرامی را قبل از اینکه هزینه‌ای برایتان بسازد بشناسید — علامت‌های هشدار واقعی، نه حدس و گمان.",
   "image": "cover.png",
   "file": "scam-tashkhis-farsi.zip",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "language": "fa",
   "titleTranslations": {
     "en": "Scam Recognition (Farsi)"
@@ -24,6 +24,11 @@
       "version": "1.0.0",
       "date": "2026-09-19",
       "notes": "Initial release — 23 decks, 115 cards, native Farsi content covering scam psychology plus Iran-specific SMS/bank fraud, messenger takeover, Telegram investment scams, and AI voice cloning."
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-09-30",
+      "notes": "Added the glossary term CVV2 and description links for glossary terms."
     }
   ],
   "toc": [
