@@ -4,7 +4,7 @@
   "description": "پیامک جعلی، تماس بانکی، کلون صدا و کلاهبرداری تلگرامی را قبل از اینکه هزینه‌ای برایتان بسازد بشناسید — علامت‌های هشدار واقعی، نه حدس و گمان.",
   "image": "cover.png",
   "file": "scam-tashkhis-farsi.zip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "language": "fa",
   "titleTranslations": {
     "en": "Scam Recognition (Farsi)"
@@ -29,6 +29,11 @@
       "version": "1.0.1",
       "date": "2026-10-29",
       "notes": "Cards: review fixes. Practice and pack cards now cover their planned keywords, and a few prompts, options and explanations no longer use terms taught later."
+    },
+    {
+      "version": "1.0.2",
+      "date": "2026-10-29",
+      "notes": "Wording fixes so cards do not use terms before they are taught and practice cards mention their topic."
     }
   ],
   "toc": [
